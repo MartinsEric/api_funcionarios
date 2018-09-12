@@ -4,7 +4,9 @@ A API foi criada usando o framework django e o django-rest-framework.
 
 Por isso, precisam ser feitas algumas configurações para rodar o projeto localmente.
 
-## Como rodar o projeto localmente:
+## Como rodar o projeto localmente.
+Após baixar o projeto e extrai-lo, siga os seguintes passos:
+
 **1.** Abra o prompt de comando.
 
 **2.** Entre na pasta do projeto (...\api_funcionarios-master\).
