@@ -46,3 +46,19 @@ Quando forem utilizá-lo de novo, só será necessário seguir os passos 1, 2, 4
 **OBS: O django-rest-framework fornece uma interface no browser para testar a API. Caso não queiram usa-la, 
 qualquer programa usado para testar API's pode ser usado.**
 
+
+## Consumindo usando URL do heroku:
+
+**Documentação -** https://api-funcionarios.herokuapp.com/docs/
+
+**GET.** https://api-funcionarios.herokuapp.com/funcionarios/
+
+**GET.** https://api-funcionarios.herokuapp.com/funcionarios/{id}/
+
+**POST.** https://api-funcionarios.herokuapp.com/funcionarios/
+
+**PUT.** https://api-funcionarios.herokuapp.com/funcionarios/{id}/
+
+**DELETE** https://api-funcionarios.herokuapp.com/funcionarios/{id}/
+
+
