@@ -21,10 +21,10 @@ Por isso, precisam ser feitas algumas configurações para rodar o projeto local
 
 **8.** Execute `pip install django-rest-swagger`.
 
-**9.** Por fim execute `python manage.py runserver` para rodar o servidor.
+**9.** Por fim, execute `python manage.py runserver` para rodar o servidor.
 
 **OBS: Esses são os passos a serem seguidos quando baixarem o projeto pela primeira vez.
-Quando forem utiliza-lo de novo, só será necessário seguir os passos 1, 2, 4, 5 e 9.**
+Quando forem utilizá-lo de novo, só será necessário seguir os passos 1, 2, 4, 5 e 9.**
 
 
 ## Consumindo a API localmente:
