@@ -7,7 +7,7 @@ Por isso, precisam ser feitas algumas configurações para rodar o projeto local
 ## Como rodar o projeto localmente:
 **1.** Abra o prompt de comando.
 
-**2.** Entre na pasta do projeto (...\api_funcionarios\).
+**2.** Entre na pasta do projeto (...\api_funcionarios-master\).
 
 **3.** Agora precisamos criar uma VirtualEnv com o comando `python -m venv venv`.
 
@@ -39,7 +39,7 @@ Quando forem utilizá-lo de novo, só será necessário seguir os passos 1, 2, 4
 
 **DELETE.** http://localhost:8000/funcionarios/{id}/
 
-**Quando qualquer ação é realizada, logs são registrados num arquivo dentro da pasta projeto no caminho ...\api_funcionarios\api_funcionarios\static\logging**
+**Quando qualquer ação é realizada, logs são registrados num arquivo dentro da pasta projeto no caminho ...\api_funcionarios-master\api_funcionarios\static\logging**
 
 **OBS: O django-rest-framework fornece uma interface no browser para testar a API. Caso não queiram usa-la, 
 qualquer programa usado para testar API's pode ser usado.**
