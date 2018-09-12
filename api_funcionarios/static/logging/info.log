@@ -1,0 +1,3 @@
+"POST /funcionarios/ HTTP/1.1" 201 65
+"POST /funcionarios/ HTTP/1.1" 201 104
+"GET /funcionarios/ HTTP/1.1" 200 172
